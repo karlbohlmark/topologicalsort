@@ -1,0 +1,12 @@
+{
+  "name": "topologicalsort",
+  "version": "0.0.0",
+  "description": "Topological sort of directed graphs",
+  "main": "topologicalsort.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
