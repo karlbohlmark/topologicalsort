@@ -7,6 +7,6 @@
     "test": "node test.js"
   },
   "repository": "",
-  "author": "",
+  "author": "Karl Böhlmark <karl.bohlmark@radiantbits.se>",
   "license": "BSD"
 }
